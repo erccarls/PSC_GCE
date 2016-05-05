@@ -1,0 +1,306 @@
+[I 16:15:04.581 NotebookApp] The port 10000 is already in use, trying another port.
+[I 16:15:04.582 NotebookApp] The port 10001 is already in use, trying another port.
+[I 16:15:04.586 NotebookApp] Serving notebooks from local directory: /data/wavelets
+[I 16:15:04.586 NotebookApp] 0 active kernels 
+[I 16:15:04.586 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:10002/
+[I 16:15:04.586 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 16:26:50.820 NotebookApp] 302 GET /tree (24.6.90.144) 3.59ms
+[I 16:26:53.503 NotebookApp] 302 POST /login?next=%2Ftree (24.6.90.144) 1.72ms
+[I 16:26:57.139 NotebookApp] Kernel started: 9a393be1-3276-4c52-9a8a-3e3fdf828e03
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:27:03.497 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:27:12.351 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:27:36.474 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:27:46.446 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:27:55.982 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:28:05.942 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:28:54.849 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:30:57.155 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:40:57.263 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:41:03.541 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:41:46.159 NotebookApp] Creating new notebook in 
+[I 16:41:47.526 NotebookApp] Kernel started: 856de662-39d1-4c10-9d49-e0c77c451e15
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:42:58.060 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 16:43:47.558 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:45:20.024 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:45:23.679 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:45:47.605 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:47:36.975 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:47:38.503 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:47:47.590 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:48:04.633 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:49:47.599 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 16:52:56.363 NotebookApp] Creating new notebook in 
+[I 16:52:57.799 NotebookApp] Kernel started: 57fb2af8-fb59-4306-a83a-8f67d74b910b
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:53:29.687 NotebookApp] Saving file at /Power Spectrum .ipynb
+[I 16:54:05.271 NotebookApp] Creating new notebook in 
+[I 16:54:06.650 NotebookApp] Kernel started: 3376fc51-874e-4fe4-b556-9b9b6b681aac
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 16:55:06.889 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:56:06.676 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:56:27.967 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:56:37.593 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:58:06.703 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:58:30.416 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:58:56.132 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:59:27.826 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:59:29.448 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:59:36.467 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:59:47.780 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 16:59:51.518 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:00:06.677 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:00:42.907 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:01:26.499 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:02:00.024 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:02:32.977 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:02:40.597 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:03:03.619 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:03:18.751 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:03:51.057 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:04:06.674 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:04:07.134 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:04:16.176 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:04:27.065 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:05:13.887 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:06:06.677 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:06:07.658 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:06:21.655 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:06:41.785 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:06:53.924 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:08:06.674 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:08:11.637 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:08:49.369 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:08:55.935 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:09:09.164 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:09:43.562 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:10:04.078 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:10:06.342 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:10:06.683 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:10:24.901 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:10:36.338 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:11:14.428 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:11:18.459 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:11:32.445 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:11:36.956 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:11:58.481 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:12:06.684 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:12:28.852 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:14:07.046 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:14:16.335 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:14:24.908 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:14:35.249 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:14:41.119 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:15:01.803 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:15:11.302 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:15:34.245 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:15:36.987 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:16:05.067 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:16:06.671 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:16:13.248 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:17:50.384 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:17:53.602 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:18:06.683 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:18:07.456 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:18:50.451 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:19:03.091 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:19:08.520 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:20:06.679 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:20:28.277 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:21:08.563 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:21:36.793 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:21:48.172 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:22:06.689 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:23:07.137 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:24:06.676 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:24:27.771 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:24:45.085 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:24:51.138 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:24:57.907 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:24:59.014 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:25:03.392 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:25:27.533 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:25:44.361 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:25:53.713 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:25:59.109 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:25:59.919 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:26:06.392 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:26:18.735 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:26:24.090 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:26:48.128 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:26:55.592 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:27:13.184 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:27:51.004 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:28:06.696 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:28:09.421 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:28:15.145 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:28:36.928 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:28:41.513 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:28:48.669 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:29:04.048 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:29:18.639 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:29:24.192 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:29:56.568 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:30:06.746 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:32:06.742 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:33:30.293 NotebookApp] Kernel interrupted: 9a393be1-3276-4c52-9a8a-3e3fdf828e03
+[I 17:34:07.112 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:34:57.160 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 17:41:00.135 NotebookApp] Saving file at /Finding Point Source Locations.ipynb
+[I 17:41:30.976 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:41:41.768 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:41:45.962 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:43:41.416 NotebookApp] Saving file at /Bin Photons.ipynb
+[I 17:43:51.321 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 17:44:19.813 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 17:46:54.728 NotebookApp] Creating new notebook in 
+[I 17:46:56.022 NotebookApp] Kernel started: 9ade75d3-505a-4ea7-9b1a-f0391657badc
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 17:47:35.767 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:48:08.720 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:48:18.588 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:48:26.657 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:48:37.824 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:48:56.057 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:49:48.082 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:49:53.988 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:50:02.073 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:50:20.342 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:50:25.986 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:50:36.678 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:50:56.055 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:51:08.313 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:54:37.096 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[I 17:55:02.774 NotebookApp] Saving file at /Working with the IRFs.ipynb
+[W 18:05:02.311 NotebookApp] No such file or directory: Starting a New Analysis.ipynb
+[W 18:05:02.311 NotebookApp] 404 GET /api/contents/Starting%20a%20New%20Analysis.ipynb?content=0&_=1462404406318 (24.6.90.144) 172.25ms referer=https://planck.ucsc.edu:10002/notebooks/Starting%20a%20New%20Analysis.ipynb
+[I 18:05:02.344 NotebookApp] Uploading file to /Starting a New Analysis.ipynb
+[I 19:49:02.293 NotebookApp] Saving file at /Starting a New Analysis.ipynb
+[I 20:20:37.406 NotebookApp] Kernel started: b987f50c-5dca-4edf-82d6-f99a21240e83
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 20:22:37.435 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:22:48.098 NotebookApp] Kernel started: 5a149861-0046-4e5a-b601-691224d2a2e8
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 20:24:29.410 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 20:24:48.790 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 20:25:06.216 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 20:25:49.991 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 20:25:53.373 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 20:25:57.865 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 20:26:50.595 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 20:28:51.586 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 20:29:18.478 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:29:29.764 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:29:34.974 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:30:20.304 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:30:25.485 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:30:37.232 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:31:01.172 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:32:20.336 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:32:24.784 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:33:39.771 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:35:02.206 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:36:20.324 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:42:20.431 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:44:12.497 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:45:40.108 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:46:03.767 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:46:13.284 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:46:20.322 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:46:33.519 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:47:54.885 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:48:04.556 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:48:20.363 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:48:20.660 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:49:53.656 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:50:20.375 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:50:51.001 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:52:20.393 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:52:39.753 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:52:47.769 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:52:58.472 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:53:19.642 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:53:28.906 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:54:20.384 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:55:03.158 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:55:17.503 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:55:26.713 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:55:28.650 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:56:20.534 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:57:31.413 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:57:43.643 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:57:45.550 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 20:58:20.533 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:00:20.530 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:02:20.510 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:02:20.918 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:02:50.322 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:02:58.665 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:04:11.349 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:04:31.829 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:04:36.352 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:04:45.540 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:06:20.401 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:09:10.659 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:09:46.224 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:09:58.393 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:10:20.518 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:10:26.144 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:10:44.118 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:11:14.370 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:12:20.604 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:14:20.664 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:14:21.885 NotebookApp] Saving file at /notebooks/Working with the IRFs.ipynb
+[I 21:15:42.410 NotebookApp] Creating new notebook in /notebooks
+[I 21:15:43.864 NotebookApp] Kernel started: 81687b43-21b0-40e4-99f4-84ab2e774a89
+/home/carlson/anaconda/lib/python2.7/site-packages/IPython/kernel/__init__.py:13: ShimWarning: The `IPython.kernel` package has been deprecated. You should import from ipykernel or jupyter_client instead.
+  "You should import from ipykernel or jupyter_client instead.", ShimWarning)
+[I 21:15:58.402 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:16:14.325 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:17:43.882 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:19:43.879 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:20:47.311 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:20:57.294 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:21:06.396 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:21:17.925 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:21:29.755 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:21:43.881 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:21:56.266 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:22:15.335 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:22:25.164 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:22:37.409 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:23:26.093 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:23:33.578 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:23:43.882 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:23:52.214 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:24:04.179 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:24:05.507 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:24:16.264 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:24:27.715 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:24:41.193 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:24:51.220 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:25:02.429 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:25:06.523 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:25:14.255 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:25:20.978 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:25:43.902 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:26:00.614 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:26:16.430 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:26:23.264 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:26:33.493 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:27:43.886 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:29:43.922 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:31:44.144 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:32:50.604 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 21:33:43.925 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:34:51.417 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
+[I 21:35:44.011 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[I 21:43:00.374 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
