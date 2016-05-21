@@ -304,3 +304,19 @@
 [I 21:34:51.417 NotebookApp] Saving file at /notebooks/Bin Photons.ipynb
 [I 21:35:44.011 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
 [I 21:43:00.374 NotebookApp] Saving file at /notebooks/Working With the Exposure Map.ipynb
+[W 01:20:48.941 NotebookApp] WebSocket ping timeout after 119985 ms.
+[W 01:20:50.428 NotebookApp] WebSocket ping timeout after 119987 ms.
+[W 01:21:14.683 NotebookApp] WebSocket ping timeout after 119987 ms.
+[I 11:05:53.634 NotebookApp] 302 GET / (24.6.90.144) 0.66ms
+[I 13:24:32.500 NotebookApp] 302 GET / (24.6.90.144) 0.60ms
+[I 16:42:26.430 NotebookApp] 302 GET / (24.6.90.144) 0.61ms
+[C 13:52:36.312 NotebookApp] received signal 15, stopping
+[I 13:52:36.313 NotebookApp] Shutting down kernels
+[I 13:52:36.822 NotebookApp] Kernel shutdown: 5a149861-0046-4e5a-b601-691224d2a2e8
+[I 13:52:37.534 NotebookApp] Kernel shutdown: b987f50c-5dca-4edf-82d6-f99a21240e83
+[I 13:52:38.136 NotebookApp] Kernel shutdown: 3376fc51-874e-4fe4-b556-9b9b6b681aac
+[I 13:52:38.136 NotebookApp] Kernel shutdown: 856de662-39d1-4c10-9d49-e0c77c451e15
+[I 13:52:39.038 NotebookApp] Kernel shutdown: 9a393be1-3276-4c52-9a8a-3e3fdf828e03
+[I 13:52:39.038 NotebookApp] Kernel shutdown: 81687b43-21b0-40e4-99f4-84ab2e774a89
+[I 13:52:39.039 NotebookApp] Kernel shutdown: 9ade75d3-505a-4ea7-9b1a-f0391657badc
+[I 13:52:39.039 NotebookApp] Kernel shutdown: 57fb2af8-fb59-4306-a83a-8f67d74b910b
